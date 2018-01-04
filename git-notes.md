@@ -42,3 +42,11 @@ Adds the work in the branch to the master
 
 Moves the master and the branch to the same path(?)
 
+## log
+
+`git log`
+
+*You only have to type enough of the leading characters of the hash to recognize that it is unique*
+
+
+
