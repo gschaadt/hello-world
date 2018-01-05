@@ -9,7 +9,7 @@
 ## Shutdown Notebook Server
 
 - open Terminal
-- enter `exit()`
+- type `control+c`
 - enter `exit`
 - enter `command+q`
 
