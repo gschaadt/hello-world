@@ -10,6 +10,7 @@
 
 - open Terminal
 - type `control+c`
+- enter `y`
 - enter `exit`
 - enter `command+q`
 
