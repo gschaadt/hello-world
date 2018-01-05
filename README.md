@@ -1,5 +1,7 @@
-# hello-world
-Running the tutorial
+# Python Stuff
+Putting stuff here for Python studies
+
+***************
 
 ## Can't get the stink off. ##
 
